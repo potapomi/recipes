@@ -1,0 +1,4 @@
+new recipe
+1. potato
+2. meat
+3. spices
